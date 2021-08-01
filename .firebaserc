@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-job-board-265d2": {
+      "hosting": {
+        "job-board": [
+          "angular-job-board-265d2"
+        ]
+      }
+    }
+  }
+}
